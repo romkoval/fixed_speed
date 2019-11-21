@@ -8,7 +8,7 @@ Usage:
         choose fixed.fit as destination.
     5. upload fixed.fit to strava.com or other service you need.
 
-`
+```
 usage: fixed gear speed resolver [-h] [--tyre-circumference CIRCUMFERENCE]
                                  [--chainring-size CHR_TEETH] [--cog COG]
                                  csv out_csv
@@ -25,4 +25,4 @@ optional arguments:
   --chainring-size CHR_TEETH, -r CHR_TEETH
                         number of chainring teeth, default=52
   --cog COG, -g COG     cog size. number of teeth, default=14
-  `
+  ```
