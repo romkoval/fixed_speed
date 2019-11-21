@@ -16,7 +16,7 @@ usage: fixed gear speed resolver [-h] [--tyre-circumference CIRCUMFERENCE]
 
 positional arguments:
   csv                   file with activity
-  out_csv               result csv file with corrected speed & cadence
+  out_csv               result csv file with corrected speed & distance
 
 optional arguments:
   -h, --help            show this help message and exit
