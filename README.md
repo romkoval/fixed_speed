@@ -3,7 +3,8 @@ Tiny script to repair fixed gear speed from cadence data.
 Usage:
 
     * using GoldenCheetah export activity as CSV file. Activity -> Export... 
-    * python fix_speed.py /tmp/no_speed.csv /tmp/fixed_speed.csv
+    * use this script to fix missing or incorrect speed data:
+         python fix_speed.py /tmp/no_speed.csv /tmp/fixed_speed.csv
     * using GoldenCheetah import activity from fixed CSV file. Activity -> Import from file...
     * using GildenCheetah export fixed activity to .FIT file: Activity -> Export... 
         choose fixed.fit as destination.
